@@ -1,0 +1,15 @@
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 ERROR-Log error Message
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 CRITICAL-Log critical Message
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 ERROR-Log error Message
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 ERROR-Log error Message
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 CRITICAL-Log critical Message
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 ERROR-Log error Message
+2021-08-26 00:25:28 WARNING-Log warning Message
+2021-08-26 00:25:28 ERROR-Log error Message
+2021-08-26 00:25:28 WARNING-Log warning Message
